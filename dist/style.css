@@ -1,0 +1,64 @@
+.container{
+background-color:gray;
+width:100%;
+color:rgb(190,190,190);
+}
+.bottomcontainer{
+	background-color:rgb(193,193,193);
+	overflow:hidden;	
+}
+.btn-primary{
+}
+.bigbottom{
+	background-color:white;
+	width:100%;
+	padding-bottom:2em;
+}
+.well-lg{
+	margin:2em;
+}
+.bigbigbig{
+
+}
+.lilkitty{
+	display:block;
+	margin-left:2em;
+}
+.lilcat{
+	margin-left:2em;
+	display:inline-block;
+}
+.listlist{
+	margin-bottom:1em;
+}
+.badge{
+
+}
+.bottomgraybod{
+	background-color:rgb(38,38,38);
+	color:rgb(190,190,190);
+	padding-top:2em;
+	padding-bottom:2em;
+
+}
+.yolo{
+	width:4em;
+}
+.sky{
+	margin-top:5em;
+
+}
+.well{
+display:inline-block;
+width:27%;
+margin-left:2em;
+margin-right:2em;
+}
+.fourkitties{
+	display:inline-block;
+}
+.bigfourkitties{
+	width:100%;
+
+}
+
